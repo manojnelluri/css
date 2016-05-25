@@ -3,4 +3,4 @@ html, body {
         margin: 0;
         padding: 0;
       }
-#my-map, #map-canvas { height: 100%; padding: 0; }
+#my-map, #map-canvas { height: 100%; padding: 0; min-height: inherit; }
